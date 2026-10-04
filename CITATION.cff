@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "transport-obs-broadcast: the desk's OBS scene collection and the obs-websocket scripts that lay it out"
+type: software
+authors:
+  - name: "K. S. Ernest (iFire) Lee"
+license: "Apache-2.0 OR MIT"
+repository-code: "https://github.com/V-Sekai-fire/transport-obs-broadcast"
+version: 0.1.0
+date-released: "2026-10-04"
+references:
+  - type: software
+    title: "OBS Studio"
+    repository-code: "https://github.com/obsproject/obs-studio"
+    version: "32.2.2"
+    license: GPL-2.0-or-later
